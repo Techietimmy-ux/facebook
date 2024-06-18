@@ -1,0 +1,28 @@
+{
+  "name": "facebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "facebook": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techietimmy-ux/facebook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Techietimmy-ux/facebook/issues"
+  },
+  "homepage": "https://github.com/Techietimmy-ux/facebook#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "webpack": "^5.92.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
