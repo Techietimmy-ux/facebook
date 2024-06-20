@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/Techietimmy-ux/facebook#readme",
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "firebase": "^10.12.2"
   },
   "devDependencies": {
     "webpack": "^5.92.0",
